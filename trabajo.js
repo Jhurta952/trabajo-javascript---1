@@ -96,3 +96,6 @@ const restar1 = (a, b) => {
 
 console.log(restar1('7', 4));  
 
+// todo lo hice antes de montarlo al github por eso se ve 
+// si lo hubiera hecho a la primera. jaja 
+
